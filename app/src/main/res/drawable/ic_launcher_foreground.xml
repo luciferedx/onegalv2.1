@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Pure Monochrome One UI 8.0 Petal Emblem for Onegal v2 -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M54,24 C60,24 64,30 64,37 C64,44 59,49 54,51 C49,49 44,44 44,37 C44,30 48,24 54,24 Z" />
+    <path
+        android:fillColor="#D4D4D8"
+        android:pathData="M54,84 C60,84 64,78 64,71 C64,64 59,59 54,57 C49,59 44,64 44,71 C44,78 48,84 54,84 Z" />
+    <path
+        android:fillColor="#E4E4E7"
+        android:pathData="M24,54 C24,48 30,44 37,44 C44,44 49,49 51,54 C49,59 44,64 37,64 C30,64 24,60 24,54 Z" />
+    <path
+        android:fillColor="#A1A1AA"
+        android:pathData="M84,54 C84,48 78,44 71,44 C64,44 59,49 57,54 C59,59 64,64 71,64 C78,64 84,60 84,54 Z" />
+    <path
+        android:fillColor="#000000"
+        android:pathData="M54,48 A6,6 0 1,0 54,60 A6,6 0 1,0 54,48 Z" />
+</vector>

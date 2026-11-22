@@ -1,0 +1,4 @@
+-keepattributes *Annotation*
+-keep class com.onegal.gallery.data.model.** { *; }
+-dontwarn androidx.media3.**
+-dontwarn coil3.**

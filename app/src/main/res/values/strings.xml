@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Onegal</string>
+    <string name="tab_pictures">Pictures</string>
+    <string name="tab_albums">Albums</string>
+    <string name="tab_external">External</string>
+    <string name="tab_menu">Menu</string>
+    <string name="action_safely_eject">Safely Eject</string>
+    <string name="action_connect_drive">Connect External Drive</string>
+    <string name="permission_rationale">Onegal needs local media access to display your photos and videos at 120Hz. Everything stays 100% on your device.</string>
+</resources>
